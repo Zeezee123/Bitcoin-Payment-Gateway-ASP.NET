@@ -21,10 +21,12 @@ namespace Gourl.GoUrlCore
     {
         public static void Main(int paymentId, IPNModel callback, string box_status)
         {
-            //PLACE YOUR CODE HERE
+          
+//* 
+//* ##############################
 
             //Mail(paymentId, callback, box_status);
-        }
+        }i
 
         private static void Mail(int paymentId, IPNModel callback, string box_status)
         {
